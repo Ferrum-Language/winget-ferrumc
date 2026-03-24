@@ -9,7 +9,7 @@ InstallModes:
 Installers:
   - Architecture: x64
     InstallerUrl: https://github.com/Ferrum-Language/Ferrum/releases/download/v0.3.0/ferrumc-v0.3.0-windows-x86_64.zip
-    InstallerSha256: WILL_BE_UPDATED_WHEN_WINDOWS_CI_COMPLETES
+    InstallerSha256: 4b332aee1b5d2eb954a25706d1eec1203b23cd4de4776493be833cb39e22518d
     NestedInstallerType: portable
     NestedInstallerFiles:
       - RelativeFilePath: ferrumc.exe
